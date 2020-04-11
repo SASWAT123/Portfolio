@@ -136,3 +136,20 @@ html {
 .about_me_details {
   border-bottom: solid black 1px;
 }
+
+.project_Cards {
+  padding: 2em;
+}
+
+.card_template {
+  padding: 1em;
+}
+
+.git_link {
+  font-size: 1em;
+  column: black;
+}
+
+.card_text {
+  justify-content: center;
+}

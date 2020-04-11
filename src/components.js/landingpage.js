@@ -24,16 +24,16 @@ const LandingPage = () => {
         />
       </div>
       <div className="icons-social">
-        <a target="_blank" href="https://google.com">
-          <i className="fa fa-google"></i>
-        </a>
-        <a target="_blank" href="https://www.linkedin.com">
+        <a
+          target="_blank"
+          href="https://www.linkedin.com/in/saswat-priyadarshan-ba2241122/"
+        >
           <i className="fa fa-linkedin-square"></i>
         </a>
-        <a target="_blank" href="https://github.com">
+        <a target="_blank" href="https://github.com/SASWAT123">
           <i className="fa fa-github-square"></i>
         </a>
-        <a target="_blank" href="https://twitter.com">
+        <a target="_blank" href="https://twitter.com/P21Saswat">
           <i className="fa fa-twitter-square"></i>
         </a>
       </div>

@@ -42,7 +42,7 @@ const Resume = () => {
                 <p>
                   HTML, CSS, Bootstrap, Javascript, Git, Jquery, React, Redux,
                   Material Design, Java, Python, Eureka, Mysql, Node.js,
-                  Dialogflow, SpringBoot,Restful APIs, Oracle, Microservice
+                  Dialogflow, SpringBoot, Restful APIs, Oracle, Microservice
                   Architecture, Algorithms, Data Structures
                 </p>
               </Row>

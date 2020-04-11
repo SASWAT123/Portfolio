@@ -9,7 +9,7 @@ const Resume = () => {
       <Container fluid={true}>
         <Row>
           <Col sm="3" xs="12" className="left_pane">
-            <Row>
+            <Row className="personal_info">
               <Col>
                 <img
                   className="profile_image"

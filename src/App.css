@@ -147,9 +147,18 @@ html {
 
 .git_link {
   font-size: 1em;
-  column: black;
+  color: black;
 }
 
 .card_text {
   justify-content: center;
+}
+
+@media only screen and (max-width: 736px) {
+  .personal_info {
+    height: 38vh;
+  }
+  .profile_image {
+    height: 38vh;
+  }
 }
